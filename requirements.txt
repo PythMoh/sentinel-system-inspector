@@ -1,0 +1,6 @@
+typer
+psutil
+python-dotenv
+groq
+rich
+flet
